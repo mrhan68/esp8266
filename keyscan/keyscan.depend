@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684903501 source:c:\users\admin\onedrive - hanoi university of science and technology\desktop\learning material\2022.2\c++ for embedded\keyscan\main.c
+	<mcs51/8052.h>
+	"lcd1602.c"
+
+1684897688 c:\users\admin\onedrive - hanoi university of science and technology\desktop\learning material\2022.2\c++ for embedded\keyscan\lcd1602.c
+	<mcs51/8052.h>
+	"lcd1602.h"
+	"string.h"
+
+1683336180 c:\users\admin\onedrive - hanoi university of science and technology\desktop\learning material\2022.2\c++ for embedded\keyscan\lcd1602.h
+
